@@ -1,0 +1,24 @@
+{
+  "name": "population-data-chartbook",
+  "version": "1.0.0",
+  "description": "Population Data Chartbook - Project #96: Data & Visualization | Python for Good Hackathon",
+  "scripts": {
+    "dev": "python server.py",
+    "start": "python server.py",
+    "cli": "python main.py",
+    "gui": "python main.py --gui",
+    "charts": "python main.py --charts",
+    "export": "python main.py --export",
+    "summary": "python main.py --summary",
+    "test": "python run_tests.py"
+  },
+  "keywords": [
+    "population",
+    "chartbook",
+    "data-visualization",
+    "hackathon",
+    "python"
+  ],
+  "author": "Hackathon Developer",
+  "license": "MIT"
+}
